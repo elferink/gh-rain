@@ -24,14 +24,11 @@ body .content {
 }
 
 .random {
-  max-width: 665px; 
   margin: auto;
   border: 2px solid;
   padding: 30px;
-  font-size: 80px;
-  font-kerning: none;
+  font-size: 5.2vw;
   backdrop-filter: opacity(0.3) brightness(0.1);
-  /* filter: opacity(0.6) brightness(0.1); */
 }
 
 .random>span {
